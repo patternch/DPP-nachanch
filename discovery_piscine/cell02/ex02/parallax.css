@@ -1,0 +1,7 @@
+body { margin: 0; font-family: Arial, sans-serif; }
+.image1, .image2{ height: 100%; background-size: cover; background-position: center; background-attachment: fixed; 
+                  display: flex; justify-content: center; align-items: center;}
+.image1{ background-image:url("https://images.unsplash.com/photo-1500534623283-312aade485b7");}
+.image2{ background-image:url("https://images.unsplash.com/photo-1441974231531-c6227db76b6e");}
+.image1 h1, .image2 h2 { color:white; text-shadow: 2px 2px 5px black;} 
+.black-block{ background-color: black; color: white; height 300px; display: flex; justify-content: center; align-items: center;}

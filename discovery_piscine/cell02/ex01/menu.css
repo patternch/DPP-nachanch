@@ -1,0 +1,7 @@
+body { background-color: #f8f3eb; color: font-family: Arial, sans-serif;}
+.dropdown{ position: relative; display: inline-block;}
+button{ background-color: #713c58; color: white; padding: 15px 30px; border: none; border-radius: 8px; cursor: pointer; }
+.dropdown-content { display: none; position: absolute; background-color: white; min-width: 180px; box-shadow: 0 4px 8px #aaaaaa; border-radius: 8px;}
+.dropdown-content a {display: block; padding: 12px; color: #713c58; text-decoration: none;}
+.dropdown a:hover { background-color: #f5dce8;}
+.dropdown:hover .dropdown-content {display: block;}
